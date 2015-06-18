@@ -3,3 +3,7 @@ I created this component due to I saw the problem of salesforce standard datepic
 
 Installation url:https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1000000035ab (Unmanaged Package)
 Change login.salesforce.com to test.salesforce.com when you want to install at Sandbox.
+
+    Password: whynotme123
+    
+    Contact me: ge.hoangct@gmail.com
